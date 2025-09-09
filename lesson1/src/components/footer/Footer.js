@@ -1,0 +1,10 @@
+import React from 'react';
+import Title from '../Title';
+
+export default function Footer() {
+    return (
+        <div>
+            <Title title="Footer"/>
+        </div>
+    );
+}
